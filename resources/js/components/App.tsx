@@ -1,4 +1,4 @@
-import { useState, FC } from 'react';
+import { useState, type FC } from 'react';
 import UserForm from './UserForm.tsx';
 import UserList from './UserList.tsx';
 

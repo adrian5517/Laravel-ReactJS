@@ -137,8 +137,8 @@ http://localhost:8000
 curl -X POST http://localhost:8000/api/v1/users \
   -H "Content-Type: application/json" \
   -d '{
-    "full_name": "John Doe",
-    "email": "john@example.com",
+    "full_name": "Adrian Boncodin",
+    "email": "adrian@test.com",
     "roles": [1, 2]
   }'
 ```
