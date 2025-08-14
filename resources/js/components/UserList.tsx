@@ -1,4 +1,4 @@
-import { useState, useEffect, type FC } from 'react';
+import React, { useState, useEffect, FC } from 'react';
 import axios from 'axios';
 
 interface User {
